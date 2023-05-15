@@ -1,6 +1,6 @@
 function Footer(){
     return(
-        <h2>Aneeqa</h2>
+        <h2>This is counter App</h2>
     )
 }
 export default Footer;
